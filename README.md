@@ -7,7 +7,6 @@ This project presents a **Data Privacy Audit of Nykaa**, an Indian e-commerce co
 
 The objective of this audit is to identify potential **data privacy vulnerabilities, risks, and compliance considerations** associated with the collection, processing, storage, and sharing of customer data.
 
-> **Note:** This is an academic/student audit. The risks identified below are areas for investigation and should not be interpreted as confirmed security incidents or legal violations.
 
 ---
 
